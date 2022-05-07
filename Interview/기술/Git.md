@@ -46,6 +46,7 @@
     <li>Git Flow는 Vincent Drissen이 시작한 Git 사용 방법론</li>
     <li>master, develop, 그리고 3가지의 접두사를 이용해서 운영한다:</li>
     <ul>
+        <img src="https://github.com/ruby-kim/Getting-ready-to-be-a-developer/blob/master/images/git-flow.png"/>
         <li>master: 기준이 되는 브랜치로 제품을 배포하는 브랜치</li>
         <li>develop: 개발 브랜치로 개발자들이 이 브랜치를 기준으로 각자 작업한 기능들을 병합(merge)한다.</li>
         <li>feature: 단위 기능을 개발하는 브랜치로 기능 개발이 완료되면 develop 브랜치에 합친다.</li>
